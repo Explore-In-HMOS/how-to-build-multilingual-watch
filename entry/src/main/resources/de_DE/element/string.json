@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "label_steps", "value": "Schritte" },
+    { "name": "label_battery", "value": "Akku" },
+    { "name": "label_spend", "value": "Ausgaben heute" },
+    { "name": "greeting", "value": "Guten Tag" }
+  ]
+}

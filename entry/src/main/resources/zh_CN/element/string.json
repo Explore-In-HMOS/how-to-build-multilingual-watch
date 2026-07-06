@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "label_steps", "value": "步数" },
+    { "name": "label_battery", "value": "电量" },
+    { "name": "label_spend", "value": "今日消费" },
+    { "name": "greeting", "value": "你好" }
+  ]
+}

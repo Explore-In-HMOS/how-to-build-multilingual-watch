@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "label_steps", "value": "الخطوات" },
+    { "name": "label_battery", "value": "البطارية" },
+    { "name": "label_spend", "value": "إنفاق اليوم" },
+    { "name": "greeting", "value": "يوم سعيد" }
+  ]
+}

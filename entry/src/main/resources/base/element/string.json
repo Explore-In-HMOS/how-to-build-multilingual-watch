@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "i18n wearable watch face codelab" },
+    { "name": "EntryAbility_label", "value": "i18n Watch" },
+    { "name": "label_steps", "value": "Steps" },
+    { "name": "label_battery", "value": "Battery" },
+    { "name": "label_spend", "value": "Today's spend" },
+    { "name": "greeting", "value": "Good day" }
+  ]
+}
